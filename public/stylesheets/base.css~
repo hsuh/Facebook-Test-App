@@ -172,7 +172,7 @@ header .tagline {
 #guides h1,
 #samples h1 {
   margin-bottom: 15px;
-  text-align: center;
+  text-align: right;
 }
 
 #guides, #samples {
